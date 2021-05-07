@@ -1,0 +1,10 @@
+C:\Users\sande\source\repos\SoftSensConfE\bin\Debug\SoftSensConfE.exe.config
+C:\Users\sande\source\repos\SoftSensConfE\bin\Debug\SoftSensConfE.exe
+C:\Users\sande\source\repos\SoftSensConfE\bin\Debug\SoftSensConfE.pdb
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.csprojAssemblyReference.cache
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.Main.resources
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.Properties.Resources.resources
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.csproj.GenerateResource.cache
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.exe
+C:\Users\sande\source\repos\SoftSensConfE\obj\Debug\SoftSensConfE.pdb
